@@ -109,5 +109,17 @@
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
     }
+    {
+        "id": 10,
+        "placeOfOrigin": "India",
+        "region": "Gujarat",
+        "city": "Ahmedabad",
+        "food" : "Khaman Dhokla",
+        "type": "Besan or Chickpea flour",
+        "foodEnergy": "81 cal",
+        "rating": "4.0",
+        "image": "https://www.google.com/search?q=khaman+dhokla&sxsrf=ALiCzsbrkjUzj2vbHL9dQBgMX9AQuanuaA:1664559417129&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj20I-Gh736AhVTxTgGHe7pA-QQ_AUoAXoECAIQAw&biw=1536&bih=746&dpr=1.25#imgrc=aI3BRjcR3kdBnM",
+        "location": "https://www.google.com/search?q=khaman+dhokla&oq=Khaman+Dhokla&aqs=chrome.0.0i433i512l2j0i512l4j0i457i512j0i512l3.7916j0j15&sourceid=chrome&ie=UTF-8"
+    },
     
 ]
